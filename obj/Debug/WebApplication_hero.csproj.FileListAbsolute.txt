@@ -1,0 +1,6 @@
+E:\Projects\Solution1\WebApplication_hero\bin\WebApplication_hero.dll.config
+E:\Projects\Solution1\WebApplication_hero\bin\WebApplication_hero.dll
+E:\Projects\Solution1\WebApplication_hero\bin\WebApplication_hero.pdb
+E:\Projects\Solution1\WebApplication_hero\obj\Debug\WebApplication_hero.csprojResolveAssemblyReference.cache
+E:\Projects\Solution1\WebApplication_hero\obj\Debug\WebApplication_hero.dll
+E:\Projects\Solution1\WebApplication_hero\obj\Debug\WebApplication_hero.pdb
